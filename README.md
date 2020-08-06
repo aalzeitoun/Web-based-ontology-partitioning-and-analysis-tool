@@ -1,6 +1,11 @@
 Web based ontology and partitioning tools
 ==========================================
 
+- Architecture
+
+![alt text](https://github.com/aalzeitoun/Web-based-ontology-partitioning-and-analysis-tool/blob/master/Architecture_img.png?raw=true)
+
+
 !NEW
 (23/08)
 
