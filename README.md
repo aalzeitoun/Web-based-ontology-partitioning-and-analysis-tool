@@ -276,3 +276,8 @@ java -jar owl2vowl.jar -file ontologies/foaf.rdf
 5.1. Add new modules in Express
 
 To add new node modules the app, simply add a new file in app/js/partials then include it in app.js (see the example for errors)
+
+
+## License
+
+&copy; 2018 Ahmad Alzeitoun, University of Bonn.
